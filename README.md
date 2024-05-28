@@ -17,7 +17,7 @@ Getting Started
 Clone the Repository:
 sh
 Copy code
-git clone https://github.com/yourusername/ai-speech-therapy-game.git
+git clone https://github.com/Rahul21082004/AI_Speach_Therapy_Game.git
 Install Dependencies:
 sh
 Copy code
